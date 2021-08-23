@@ -1,0 +1,29 @@
+h1 {
+    color: rosybrown;
+    background-color: red;
+}
+h2 {
+    color: #44ff;
+    background-color: orange;
+}
+h3 {
+    color: #88bf33;
+    background-color: yellow;
+}
+h4 {
+    color: #26dd99;
+    color: #2d9;
+    background-color: green;
+}
+h5 {
+    color: #cfcf5500;
+    background-color: blue;
+}
+h6 {
+    color: rgb(205, 6, 9);
+    background-color: indigo;
+}
+p {
+    color: rgba(0, 0, 240, 0.8);
+    background-color: violet;
+}
